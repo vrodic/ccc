@@ -1,5 +1,6 @@
 *.log
 .htaccess
+bower_components/*
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
